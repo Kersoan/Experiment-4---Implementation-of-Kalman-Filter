@@ -1,4 +1,4 @@
-# Ex No. 6 Implementation of Kalman Filter
+# Ex--06--Implementation of Kalman Filter
 
 ## Aim:
 To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
@@ -10,9 +10,9 @@ Step 4:Update the state estimate based on the measurement using kf.update(). </b
 Step 5:Store the estimated state in a list. </br>
 Step 6:Plot the true and estimated positions.</br>
 ## Program:
-Developed by: Pragatheesvaran AB
+Developed by: KERSOAN P
 
-Register number: 212221240039
+Register number: 212221230050
 ```
 import numpy as np
 
